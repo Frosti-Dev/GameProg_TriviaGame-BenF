@@ -1,0 +1,8 @@
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\bin\Debug\GameProg_TriviaGame-BenF.exe.config
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\bin\Debug\GameProg_TriviaGame-BenF.exe
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\bin\Debug\GameProg_TriviaGame-BenF.pdb
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\obj\Debug\GameProg_TriviaGame-BenF.csproj.AssemblyReference.cache
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\obj\Debug\GameProg_TriviaGame-BenF.csproj.CoreCompileInputs.cache
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\obj\Debug\GameProg_TriviaGame-BenF.exe
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\obj\Debug\GameProg_TriviaGame-BenF.pdb
+C:\Users\w0527459\Documents\GameProg_TriviaGame-BenF\GameProg_TriviaGame-BenF\obj\Debug\GameProg_TriviaGame-BenF.exe.config
